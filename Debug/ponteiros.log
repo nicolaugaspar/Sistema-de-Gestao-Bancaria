@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ponteiros.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  InserirContas.c
+  Selecao.c
+E:\PROGRAMADOR INFORMÁTICO\Programação em c Avançado\Grupo8_PauloGaspar\sistemabancario\ponteiros\Selecao.c(21,25): warning C4013: 'menu' undefined; assuming extern returning int
+E:\PROGRAMADOR INFORMÁTICO\Programação em c Avançado\Grupo8_PauloGaspar\sistemabancario\ponteiros\Selecao.c(25,34): warning C4013: 'inserircontas' undefined; assuming extern returning int
+E:\PROGRAMADOR INFORMÁTICO\Programação em c Avançado\Grupo8_PauloGaspar\sistemabancario\ponteiros\Selecao.c(28,45): warning C4013: 'registarMovimentoBancario' undefined; assuming extern returning int
+E:\PROGRAMADOR INFORMÁTICO\Programação em c Avançado\Grupo8_PauloGaspar\sistemabancario\ponteiros\Selecao.c(33,33): warning C4013: 'mostrarconta' undefined; assuming extern returning int
+E:\PROGRAMADOR INFORMÁTICO\Programação em c Avançado\Grupo8_PauloGaspar\sistemabancario\ponteiros\Selecao.c(37,45): warning C4013: 'mostrarmovimentobancario' undefined; assuming extern returning int
+E:\PROGRAMADOR INFORMÁTICO\Programação em c Avançado\Grupo8_PauloGaspar\sistemabancario\ponteiros\Selecao.c(41,43): warning C4013: 'consultaListaMovimentoData' undefined; assuming extern returning int
+E:\PROGRAMADOR INFORMÁTICO\Programação em c Avançado\Grupo8_PauloGaspar\sistemabancario\ponteiros\Selecao.c(45,51): warning C4013: 'consultaContaBancariaMovimento' undefined; assuming extern returning int
+E:\PROGRAMADOR INFORMÁTICO\Programação em c Avançado\Grupo8_PauloGaspar\sistemabancario\ponteiros\Selecao.c(48,61): warning C4013: 'desativarContabancáriaMovimentoElimanda' undefined; assuming extern returning int
+E:\PROGRAMADOR INFORMÁTICO\Programação em c Avançado\Grupo8_PauloGaspar\sistemabancario\ponteiros\Selecao.c(56,41): warning C4013: 'alterarMovimentoBancario' undefined; assuming extern returning int
+  Generating Code...
+  ponteiros.vcxproj -> E:\PROGRAMADOR INFORMÁTICO\Programação em c Avançado\Grupo8_PauloGaspar\sistemabancario\Debug\sistemaBancario.exe
